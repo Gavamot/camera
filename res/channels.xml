@@ -1,0 +1,16 @@
+<xml.ChannelDictionaryXML>
+  <channels>
+    <xml.dataClass.Channel>
+      <id>1</id>
+      <name>Ves</name>
+    </xml.dataClass.Channel>
+    <xml.dataClass.Channel>
+      <id>2</id>
+      <name>Hot</name>
+    </xml.dataClass.Channel>
+    <xml.dataClass.Channel>
+      <id>3</id>
+      <name>Vasia</name>
+    </xml.dataClass.Channel>
+  </channels>
+</xml.ChannelDictionaryXML>

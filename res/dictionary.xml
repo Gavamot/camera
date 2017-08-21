@@ -1,0 +1,22 @@
+<xml.TotalDictionaryXML>
+  <produsers>
+    <xml.dataClass.Produser>
+      <name>Vasia</name>
+      <conStrRule>rtsp://{ip}/user=admin&password=&channel=1&stream={th}.sdp?</conStrRule>
+    </xml.dataClass.Produser>
+    <xml.dataClass.Produser>
+      <name>Petia</name>
+      <conStrRule>rtsp://{ip}/user=admin&amp;password=&amp;channel=1&amp;stream={th}.sdp?</conStrRule>
+    </xml.dataClass.Produser>
+  </produsers>
+  <models>
+    <xml.dataClass.Model>
+      <produser reference="../../../produsers/xml.dataClass.Produser"/>
+      <name>G1</name>
+    </xml.dataClass.Model>
+    <xml.dataClass.Model>
+      <produser reference="../../../produsers/xml.dataClass.Produser[2]"/>
+      <name>G2</name>
+    </xml.dataClass.Model>
+  </models>
+</xml.TotalDictionaryXML>

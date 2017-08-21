@@ -1,0 +1,51 @@
+<component name="libraryTable">
+  <library name="gson-2.8.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jedis-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr80-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jssc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-iostreams-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-310.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.15.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xstream-1.4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/swing-layout/swing-layout-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/absolutelayout/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jpa20-persistence/javax.persistence_2.1.0.v201304241213.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jSSC-2.8.0/jssc.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/swing-layout/swing-layout-1.0.4-doc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jpa20-persistence/javax.persistence-2.1.0-doc.zip!/docs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jedis-2.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-310.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-320.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/swing-layout/swing-layout-1.0.4-src.zip!/swing-layout-1.0.4/src/java" />
+    </SOURCES>
+    <excluded>
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jedis-2.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jedis-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr80-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jssc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-iostreams-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-310.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-320.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.15.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/swing-layout/swing-layout-1.0.4-doc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/swing-layout/swing-layout-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xstream-1.4.9.jar!/" />
+    </excluded>
+  </library>
+</component>

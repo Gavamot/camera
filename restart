@@ -1,0 +1,2 @@
+sudo sleep 8
+sudo java -Dlog4j.configurationFile=log4j2.xml -Djava.library.path=/home/user/opencv-3.1.0/build/lib -jar ComPort.jar
